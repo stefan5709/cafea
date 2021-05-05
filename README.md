@@ -1,2 +1,2 @@
 # cafea
-site pentru scoala
+site pentru scoala.
